@@ -1,1 +1,2 @@
 <h1> welcome to git lab </h1>
+<h2> come to git hi </h2>
